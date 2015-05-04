@@ -1,0 +1,9 @@
+input, label, textarea{
+	display: block;
+	margin: 5px;
+}
+table, tr, td, th{
+	border: 1px solid #ccc;
+	border-collapse: collapse;
+	padding: 5px;
+}
